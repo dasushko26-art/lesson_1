@@ -1,0 +1,4 @@
+start = int(input('your 1st number'))
+end = int(input('your 2nd number'))
+for i in range(start,end + 1):
+    print(i, end='')
