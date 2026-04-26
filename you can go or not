@@ -1,0 +1,7 @@
+age = int(input('your age?'))
+if age > 18:
+    print('you can go')
+elif age == 18:
+    print('i will think about it')
+else:
+    print('you can`t go')
